@@ -1,3 +1,6 @@
+
+<img src= "https://github.com/LaiFrance/Help_Desp--app-de-registro-de-chamados/assets/91226847/fa00beef-993d-4b51-8fcc-66bbfd58e8ae" widht=200px height=200px >
+
 # Help_Desp--app-de-registro-de-chamados
 Uma solução eficiente em PHP para gerenciar chamados, simplificando o processo de registro, acompanhamento e resolução de solicitações. Oferecendo uma interface intuitiva. https://helpdesklaisefrance.000webhostapp.com/
 
